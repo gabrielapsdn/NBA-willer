@@ -1,7 +1,7 @@
 {
-  "name": "willer-atividade-nba",
+  "name": "gabriela-nascimento-nba",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
